@@ -32,14 +32,6 @@ body {
   font-style: normal;
 }
 
-h1,
-.h1,
-h2,
-.h2,
-h3,
-.h3 {
-}
-
 h1 {
   font-family: 'chanticleer_roman_nfregular';
   color: #ffffff;
@@ -92,109 +84,6 @@ a:focus {
 ul {
   list-style: none;
   padding: 0px;
-}
-
-.navbar {
-  margin-top: ;
-  border-radius: 0;
-  border: none;
-}
-
-.navbar-default {
-  background: #333333;
-}
-
-@media (min-width: 992px) {
-  .navbar-default {
-    background: #333333 url(./images/guitar.png) no-repeat 95% -70px;
-    height: ;
-  }
-}
-
-@media (min-width: 1200px) {
-  .navbar-default {
-    background: #333333 url(./images/guitar.png) no-repeat 85% -70px;
-    height: ;
-  }
-}
-
-.navbar-brand {
-  background: url(./images/logo-white-sm.png) no-repeat;
-  background: ;
-  padding: 0px;
-  height: 85px;
-  width: 185px;
-  margin-top: ;
-}
-
-.navbar .navbar-collapse {
-  border: none;
-  padding-right: ;
-  box-shadow: none;
-}
-
-.navbar-default .navbar-toggle {
-  border: none;
-}
-
-.navbar-default .navbar-toggle:hover,
-.navbar-default .navbar-toggle:focus {
-  background: rgba(177, 0, 28, 0.2);
-  border: none;
-}
-
-.navbar-default .navbar-toggle .icon-bar {
-  background-color: #b1001c;
-}
-
-.navbar-nav {
-  margin-top: ;
-}
-
-@media (min-width: 768px) {
-  .navbar-nav {
-    margin-left: 10px;
-    margin-top: 50px;
-  }
-}
-
-@media (min-width: 992px) {
-  .navbar-nav {
-    margin-left: 10px;
-    margin-top: 50px;
-  }
-}
-
-@media (min-width: 1200px) {
-  .navbar-nav {
-    margin-left: 10px;
-    margin-top: 50px;
-  }
-}
-
-.navbar-default .navbar-nav > li > a {
-  font-family: 'chanticleer_roman_nfregular';
-  color: #ffffff;
-  font-size: 18px;
-  font-weight: normal;
-}
-
-.navbar-default .navbar-nav li a:hover,
-.navbar-default .navbar-nav li a:focus,
-.navbar-default .navbar-nav li a:active {
-  color: #b1001c;
-  background: none;
-}
-
-.navbar-default .navbar-nav .active a {
-  background: none;
-  color: #b1001c;
-}
-
-.navbar-default .navbar-nav .active a:hover,
-.navbar-default .navbar-nav .active a:focus {
-  background: none;
-  color: #b1001c;
 }
 
 .row {
