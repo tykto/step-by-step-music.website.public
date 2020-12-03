@@ -23,11 +23,15 @@
     text-align: right;
   }
 
-  a,
-  a:hover,
-  a:focus {
+  a {
     font-weight: normal;
     color: #ffffff;
+    text-decoration: none;
+  }
+
+  a:hover,
+  a:focus {
+    color: #b1001c;
     text-decoration: none;
   }
 
