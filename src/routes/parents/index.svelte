@@ -3,7 +3,7 @@
   import Jumbotron from './_components/jumbotron.svelte';
   import Heading from './_components/heading.svelte';
   import Content from './_components/content.svelte';
-  import Footer from './_components/footer.svelte';
+  import Footer from '../_components/footer.svelte';
 </script>
 
 <style>
