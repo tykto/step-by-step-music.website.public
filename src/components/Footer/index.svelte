@@ -1,6 +1,3 @@
-<script type="ts">
-</script>
-
 <style>
   #footer {
     position: absolute;

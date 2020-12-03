@@ -1,6 +1,3 @@
-<script type="ts">
-</script>
-
 <style>
   .t-title {
     background: #b1001c;
