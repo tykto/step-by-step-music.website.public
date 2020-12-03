@@ -1,7 +1,7 @@
-<script type="ts">
-</script>
-
 <style>
+  .row {
+    padding-top: 15px;
+  }
   .t-title {
     background: #b1001c;
     margin-bottom: 5px;

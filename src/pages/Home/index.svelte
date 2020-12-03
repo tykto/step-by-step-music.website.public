@@ -3,6 +3,12 @@
   import jumbotronUrl from './jumbotron.jpg';
 </script>
 
+<style>
+  .row {
+    padding-top: 20px;
+  }
+</style>
+
 <svelte:head>
   <meta name="description" content="Step by Step Music" />
   <meta
