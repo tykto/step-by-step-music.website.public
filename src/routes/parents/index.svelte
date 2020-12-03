@@ -1,5 +1,5 @@
 <script type="ts">
-  import Nav from './_components/nav.svelte';
+  import Nav from '../_components/nav.svelte';
   import Jumbotron from './_components/jumbotron.svelte';
   import Heading from './_components/heading.svelte';
   import Content from './_components/content.svelte';
@@ -18,7 +18,7 @@
   <title>Step by Step Music</title>
 </svelte:head>
 
-<Nav />
+<Nav active="parents" />
 <Jumbotron />
 <div class="container-fluid t-content">
   <Heading />
