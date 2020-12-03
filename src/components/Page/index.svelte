@@ -1,8 +1,8 @@
 <script type="ts">
-  import Footer from './footer.svelte';
-  import Heading from './heading.svelte';
-  import Jumbotron from './jumbotron.svelte';
-  import Nav from './nav.svelte';
+  import Footer from '@app/components/Footer';
+  import Heading from '@app/components/Heading';
+  import Jumbotron from '@app/components/Jumbotron';
+  import Nav from '@app/components/Nav';
 
   export let active = null;
   export let jumbotronUrl = null;
