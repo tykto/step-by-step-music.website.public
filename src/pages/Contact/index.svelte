@@ -13,15 +13,6 @@
   }
 </style>
 
-<svelte:head>
-  <meta name="description" content="Step by Step Music" />
-  <meta
-    name="keywords"
-    content="music, education, guitar, piano, voice, music tuition, violin, drums, guitar teacher, piano teacher, singing, singing teacher, drum teacher" />
-  <meta name="robots" content="index,follow" />
-  <title>Step by Step Music</title>
-</svelte:head>
-
 <Page heading="CONTACT" active="contact" {jumbotronUrl}>
   <div class="row">
     <div class="col-xs-12 col-sm-4 col-md-4">
