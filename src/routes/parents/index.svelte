@@ -1,7 +1,7 @@
 <script type="ts">
   import Nav from '../_components/nav.svelte';
   import Jumbotron from './_components/jumbotron.svelte';
-  import Heading from './_components/heading.svelte';
+  import Heading from '../_components/heading.svelte';
   import Content from './_components/content.svelte';
   import Footer from '../_components/footer.svelte';
 </script>
@@ -21,7 +21,7 @@
 <Nav active="parents" />
 <Jumbotron />
 <div class="container-fluid t-content">
-  <Heading />
+  <Heading>PARENTS</Heading>
   <Content />
 </div>
 <Footer />

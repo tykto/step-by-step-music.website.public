@@ -2,7 +2,7 @@
   import Nav from '../_components/nav.svelte';
   import Footer from '../_components/footer.svelte';
   import Jumbotron from './_components/jumbotron.svelte';
-  import Heading from './_components/heading.svelte';
+  import Heading from '../_components/heading.svelte';
   import Content from './_components/content.svelte';
 </script>
 
@@ -21,7 +21,7 @@
 <Nav active="contact" />
 <Jumbotron />
 <div class="container-fluid t-content">
-  <Heading />
+  <Heading>CONTACT</Heading>
   <Content />
 </div>
 <Footer />

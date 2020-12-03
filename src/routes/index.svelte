@@ -21,7 +21,7 @@
 <Nav />
 <Jumbotron />
 <div class="container-fluid t-content">
-  <Heading />
+  <Heading>WELCOME</Heading>
   <Content />
 </div>
 <Footer />
