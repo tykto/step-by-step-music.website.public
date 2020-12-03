@@ -8,6 +8,7 @@ body {
   background: #ffffff;
   margin-bottom: 100px;
   font-family: Calibri;
+  font-size: 16px;
   color: #000000;
 }
 
@@ -285,7 +286,6 @@ form {
   padding-top: 10px;
   color: #ffffff;
   font-family: 'chanticleer_roman_nfregular';
-  font-size: 16px;
 }
 
 @media (min-width: 992px) {
