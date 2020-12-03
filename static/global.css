@@ -8,6 +8,7 @@ body {
   background: #ffffff;
   margin-bottom: 100px;
   font-family: Calibri;
+  font-size: 16px;
   color: #000000;
 }
 
@@ -31,14 +32,6 @@ body {
   font-style: normal;
 }
 
-h1,
-.h1,
-h2,
-.h2,
-h3,
-.h3 {
-}
-
 h1 {
   font-family: 'chanticleer_roman_nfregular';
   color: #ffffff;
@@ -56,7 +49,6 @@ h1 {
 h2 {
   font-family: 'chanticleer_roman_nfregular';
   color: #ffffff;
-  margin: ;
 }
 
 h3 {
@@ -93,231 +85,6 @@ ul {
   padding: 0px;
 }
 
-.navbar {
-  margin-top: ;
-  border-radius: 0;
-  border: none;
-}
-
-.navbar-default {
-  background: #333333;
-}
-
-@media (min-width: 992px) {
-  .navbar-default {
-    background: #333333 url(./images/guitar.png) no-repeat 95% -70px;
-    height: ;
-  }
-}
-
-@media (min-width: 1200px) {
-  .navbar-default {
-    background: #333333 url(./images/guitar.png) no-repeat 85% -70px;
-    height: ;
-  }
-}
-
-.navbar-brand {
-  background: url(./images/logo-white-sm.png) no-repeat;
-  background: ;
-  padding: 0px;
-  height: 85px;
-  width: 185px;
-  margin-top: ;
-}
-
-.navbar .navbar-collapse {
-  border: none;
-  padding-right: ;
-  box-shadow: none;
-}
-
-.navbar-default .navbar-toggle {
-  border: none;
-}
-
-.navbar-default .navbar-toggle:hover,
-.navbar-default .navbar-toggle:focus {
-  background: rgba(177, 0, 28, 0.2);
-  border: none;
-}
-
-.navbar-default .navbar-toggle .icon-bar {
-  background-color: #b1001c;
-}
-
-.navbar-nav {
-  margin-top: ;
-}
-
-@media (min-width: 768px) {
-  .navbar-nav {
-    margin-left: 10px;
-    margin-top: 50px;
-  }
-}
-
-@media (min-width: 992px) {
-  .navbar-nav {
-    margin-left: 10px;
-    margin-top: 50px;
-  }
-}
-
-@media (min-width: 1200px) {
-  .navbar-nav {
-    margin-left: 10px;
-    margin-top: 50px;
-  }
-}
-
-.navbar-default .navbar-nav > li > a {
-  font-family: 'chanticleer_roman_nfregular';
-  color: #ffffff;
-  font-size: 18px;
-  font-weight: normal;
-}
-
-.navbar-default .navbar-nav li a:hover,
-.navbar-default .navbar-nav li a:focus,
-.navbar-default .navbar-nav li a:active {
-  color: #b1001c;
-  background: none;
-}
-
-.navbar-default .navbar-nav .active a {
-  background: none;
-  color: #b1001c;
-}
-
-.navbar-default .navbar-nav .active a:hover,
-.navbar-default .navbar-nav .active a:focus {
-  background: none;
-  color: #b1001c;
-}
-
-.jumbotron-home {
-  background: url(./images/rock-band.jpg) no-repeat;
-  background-position: center center;
-  background-size: cover;
-  min-height: 360px;
-  margin-bottom: 0px;
-}
-
-.jumbotron-schools {
-  background: url(./images/guitar.jpg) no-repeat;
-  background-position: center center;
-  background-size: cover;
-  min-height: 360px;
-  margin-bottom: 0px;
-}
-
-.jumbotron-parents {
-  background: url(./images/piano.jpg) no-repeat;
-  background-position: center center;
-  background-size: cover;
-  min-height: 360px;
-  margin-bottom: 0px;
-}
-
-.jumbotron-faq {
-  background: url(./images/drum.jpg) no-repeat;
-  background-position: center center;
-  background-size: cover;
-  min-height: 360px;
-  margin-bottom: 0px;
-}
-
-.jumbotron-contact {
-  background: url(./images/microphone.jpg) no-repeat;
-  background-position: center center;
-  background-size: cover;
-  min-height: 360px;
-  margin-bottom: 0px;
-}
-
-.jumbotron-pay {
-  background: url(./images/violin.jpg) no-repeat;
-  background-position: center center;
-  background-size: cover;
-  min-height: 360px;
-  margin-bottom: 0px;
-}
-
-.t-content {
-  margin-top: -50px;
-}
-
-.t-title {
-  background: #b1001c;
-  margin-bottom: 5px;
-  margin-left: ;
-  padding-top: 0;
-  padding-bottom: ;
-}
-
-.row {
-  padding-top: 10px;
-}
-
-.t-level {
-  padding-top: 27px;
-}
-
-.t-image {
-  padding-left: 0px;
-}
-
-form {
-  padding-bottom: 10px;
-}
-
-/* Set the fixed height of the footer here */
-
-#footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  background: #333333;
-  /* Set the fixed height of the footer here */
-  height: 100px;
-  font-size: 12px;
-  padding-top: 10px;
-  color: #ffffff;
-  font-family: 'chanticleer_roman_nfregular';
-  font-size: 16px;
-}
-
-@media (min-width: 992px) {
-  #footer {
-    background: #333333 url(./images/drumsticks.png) no-repeat 40% bottom;
-    height: ;
-  }
-}
-
-#footer .container-fluid {
-  background: #333333;
-}
-
-@media (min-width: 992px) {
-  #footer .container-fluid {
-    background: transparent;
-    height: ;
-  }
-}
-
-.t-info {
-  text-align: right;
-}
-
 .fa {
   width: 17px;
-}
-
-.t-credit,
-.t-credit:hover,
-.t-credit:focus {
-  font-weight: normal;
-  color: #ffffff;
-  text-decoration: none;
 }
