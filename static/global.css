@@ -197,127 +197,14 @@ ul {
   color: #b1001c;
 }
 
-.jumbotron-home {
-  background: url(./images/rock-band.jpg) no-repeat;
-  background-position: center center;
-  background-size: cover;
-  min-height: 360px;
-  margin-bottom: 0px;
-}
-
-.jumbotron-schools {
-  background: url(./images/guitar.jpg) no-repeat;
-  background-position: center center;
-  background-size: cover;
-  min-height: 360px;
-  margin-bottom: 0px;
-}
-
-.jumbotron-parents {
-  background: url(./images/piano.jpg) no-repeat;
-  background-position: center center;
-  background-size: cover;
-  min-height: 360px;
-  margin-bottom: 0px;
-}
-
-.jumbotron-faq {
-  background: url(./images/drum.jpg) no-repeat;
-  background-position: center center;
-  background-size: cover;
-  min-height: 360px;
-  margin-bottom: 0px;
-}
-
-.jumbotron-contact {
-  background: url(./images/microphone.jpg) no-repeat;
-  background-position: center center;
-  background-size: cover;
-  min-height: 360px;
-  margin-bottom: 0px;
-}
-
-.jumbotron-pay {
-  background: url(./images/violin.jpg) no-repeat;
-  background-position: center center;
-  background-size: cover;
-  min-height: 360px;
-  margin-bottom: 0px;
-}
-
-.t-content {
-  margin-top: -50px;
-}
-
-.t-title {
-  background: #b1001c;
-  margin-bottom: 5px;
-  margin-left: ;
-  padding-top: 0;
-  padding-bottom: ;
-}
-
 .row {
   padding-top: 10px;
-}
-
-.t-level {
-  padding-top: 27px;
-}
-
-.t-image {
-  padding-left: 0px;
 }
 
 form {
   padding-bottom: 10px;
 }
 
-/* Set the fixed height of the footer here */
-
-#footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  background: #333333;
-  /* Set the fixed height of the footer here */
-  height: 100px;
-  font-size: 14px;
-  padding-top: 10px;
-  color: #ffffff;
-  font-family: 'chanticleer_roman_nfregular';
-}
-
-@media (min-width: 992px) {
-  #footer {
-    background: #333333 url(./images/drumsticks.png) no-repeat 40% bottom;
-    height: ;
-  }
-}
-
-#footer .container-fluid {
-  background: #333333;
-}
-
-@media (min-width: 992px) {
-  #footer .container-fluid {
-    background: transparent;
-    height: ;
-  }
-}
-
-.t-info {
-  text-align: right;
-}
-
 .fa {
   width: 17px;
-}
-
-.t-credit,
-.t-credit:hover,
-.t-credit:focus {
-  font-weight: normal;
-  color: #ffffff;
-  text-decoration: none;
 }
