@@ -1,5 +1,5 @@
 <script type="ts">
-  import ContactPage from '@app/pages/Contact';
+  import ContactPage from '$lib/ui.pages/Contact';
 </script>
 
 <ContactPage />

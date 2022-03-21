@@ -1,5 +1,5 @@
 <script type="ts">
-  import ParentsPage from '@app/pages/Parents';
+  import ParentsPage from '$lib/ui.pages/Parents';
 </script>
 
 <ParentsPage />

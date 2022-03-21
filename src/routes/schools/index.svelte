@@ -1,5 +1,5 @@
 <script type="ts">
-  import SchoolsPage from '@app/pages/Schools';
+  import SchoolsPage from '$lib/ui.pages/Schools';
 </script>
 
 <SchoolsPage />
