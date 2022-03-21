@@ -1,0 +1,91 @@
+{
+  ".svelte-kit/runtime/client/start.js": {
+    "file": "start-ad899bfe.js",
+    "src": ".svelte-kit/runtime/client/start.js",
+    "isEntry": true,
+    "imports": [
+      "_vendor-97bc40ef.js"
+    ],
+    "dynamicImports": [
+      "src/routes/__layout.svelte",
+      ".svelte-kit/runtime/components/error.svelte",
+      "src/routes/index.svelte",
+      "src/routes/contact/index.svelte",
+      "src/routes/parents/index.svelte",
+      "src/routes/schools/index.svelte"
+    ]
+  },
+  "src/routes/__layout.svelte": {
+    "file": "pages/__layout.svelte-45843e37.js",
+    "src": "src/routes/__layout.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-97bc40ef.js"
+    ],
+    "css": [
+      "assets/pages/__layout.svelte-e39463ad.css"
+    ]
+  },
+  ".svelte-kit/runtime/components/error.svelte": {
+    "file": "error.svelte-5d3334e6.js",
+    "src": ".svelte-kit/runtime/components/error.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-97bc40ef.js"
+    ]
+  },
+  "src/routes/index.svelte": {
+    "file": "pages/index.svelte-8affac67.js",
+    "src": "src/routes/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-97bc40ef.js",
+      "_index-66b149a8.js"
+    ]
+  },
+  "src/routes/contact/index.svelte": {
+    "file": "pages/contact/index.svelte-6cd07948.js",
+    "src": "src/routes/contact/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-97bc40ef.js",
+      "_index-66b149a8.js"
+    ],
+    "css": [
+      "assets/pages/contact/index.svelte-95e2383b.css"
+    ]
+  },
+  "src/routes/parents/index.svelte": {
+    "file": "pages/parents/index.svelte-de311df8.js",
+    "src": "src/routes/parents/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-97bc40ef.js",
+      "_index-66b149a8.js"
+    ]
+  },
+  "src/routes/schools/index.svelte": {
+    "file": "pages/schools/index.svelte-dd8d52b4.js",
+    "src": "src/routes/schools/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-97bc40ef.js",
+      "_index-66b149a8.js"
+    ]
+  },
+  "_vendor-97bc40ef.js": {
+    "file": "chunks/vendor-97bc40ef.js"
+  },
+  "_index-66b149a8.js": {
+    "file": "chunks/index-66b149a8.js",
+    "imports": [
+      "_vendor-97bc40ef.js"
+    ]
+  }
+}
