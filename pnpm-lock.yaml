@@ -2,8 +2,8 @@ lockfileVersion: 5.3
 
 specifiers:
   '@fortawesome/fontawesome-free': ^6.0.0
-  '@sveltejs/adapter-static': next
-  '@sveltejs/kit': next
+  '@sveltejs/adapter-static': 1.0.0-next.28
+  '@sveltejs/kit': 1.0.0-next.288
   '@tailwindcss/forms': ^0.5.0
   '@types/html-minifier': ^4.0.2
   '@types/jest': ^27.4.1
@@ -31,8 +31,8 @@ specifiers:
 
 devDependencies:
   '@fortawesome/fontawesome-free': 6.0.0
-  '@sveltejs/adapter-static': 1.0.0-next.29
-  '@sveltejs/kit': 1.0.0-next.298_svelte@3.46.1
+  '@sveltejs/adapter-static': 1.0.0-next.28
+  '@sveltejs/kit': 1.0.0-next.288_svelte@3.46.1
   '@tailwindcss/forms': 0.5.0_tailwindcss@3.0.13
   '@types/html-minifier': 4.0.2
   '@types/jest': 27.4.1
@@ -732,14 +732,14 @@ packages:
       '@sinonjs/commons': 1.8.3
     dev: true
 
-  /@sveltejs/adapter-static/1.0.0-next.29:
-    resolution: {integrity: sha512-0hjGnfT3BRyoHnzJ2w0/xL+xICRpKneDTm45ZzggiRrc0r71WJfF6toGeg8N4QUQnj8EJ3Itm453gsS1kt7VUQ==}
+  /@sveltejs/adapter-static/1.0.0-next.28:
+    resolution: {integrity: sha512-c4xLyeSwnbGQxe4f1SLpHTbxZDm3TEr43scR3tOlVgQN+mnAL9aDdl3nTtdzWmrUDmDEmY4GriAwLyFLZuINLw==}
     dependencies:
       tiny-glob: 0.2.9
     dev: true
 
-  /@sveltejs/kit/1.0.0-next.298_svelte@3.46.1:
-    resolution: {integrity: sha512-HUna2KgBc9NdeSCAqZBo6NUuRHab1tRMW6O3OtLvPs7ldSY+cEarDmUJb1ZeHwPrbcS2RTHSnBNNc0l+UyiFIw==}
+  /@sveltejs/kit/1.0.0-next.288_svelte@3.46.1:
+    resolution: {integrity: sha512-6ky4CUFNGKoU1QV+fY2LOIB7atHdUCIMRx3pX21B2g9yZzQzkot0zHBrMMBSKF0/4Wx19PLEWrlGxlhakYmi8Q==}
     engines: {node: '>=14.13'}
     hasBin: true
     peerDependencies:
